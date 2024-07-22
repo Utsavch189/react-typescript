@@ -1,0 +1,38 @@
+*{
+    padding: 2px;
+}
+
+.user_card_main{
+    background-color: whitesmoke;
+    padding: 5px;
+    margin-top: 7px;
+}
+
+.user_card_main input{
+    border-radius: 2%;
+    padding: 5px;
+    width: 100%;
+}
+
+.user_card_sub{
+    margin-top: 3px;
+}
+
+.btn_group{
+    margin-top: 6px;
+    display: flex;
+    align-items: center;
+    gap: 7px;
+}
+
+.btn_update{
+    background-color: blue;
+    color: white;
+    padding: 2px;
+}
+
+.btn_delete{
+    background-color: red;
+    color: white;
+    padding: 2px;
+}
